@@ -1,2 +1,2 @@
-# gauravsiportfolio
-hey everyone this is my personal portfolio
+# DEMO PORTFOLIO
+HEY THIS IS JUST A DEMO OF MY PORTFOLIO
